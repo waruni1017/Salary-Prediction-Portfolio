@@ -48,11 +48,11 @@ It is pretty noticeable that the salary distribution looks symmetric. However, w
 Since most of my feature variables are categorical, I decided to one-hot code all categorical variables. And then I chose a 2/3-1/3 train and test for modeling.
 Following are the models and respective mean square errors:
 
-*Multiple Linear Regression	384.2013
-
-*Random Forest 	366.7268
-
-*Gradient Boosting	359.4175
+Model | Mean Square Error (MSE)
+------------ | -------------
+Multiple Linear Regression| 384.2013
+Random Forest | 	366.7268
+Gradient Boosting |  359.4175
 
 **Conclusion**
 
