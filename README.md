@@ -11,13 +11,21 @@ In this project I develop 3 models, namely multiple linear regression, random fo
 There are 10,000,000 data. And the dataset contains several variables.
 
 *jobId		 	: job identification number 
+
 *companyId	 	: company identification number
+
 *jobType	 	: types of positions (categorical)
+
 *degree		 	: highest level of education qualification (categorical)
+
 *major		 	: field majored in education (categorical)
+
 *industry		: Industry of the job (categorical)
+
 *yearsExperience          : years of experience in the candidate (numerical)
+
 *milesFromMetropolis : distance from metropolis in miles (numerical)
+
 *salary			: salary in thousands for each candidate (numerical)
 
 **Data Preprocessing**
