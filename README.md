@@ -40,7 +40,9 @@ Since most of my feature variables are categorical, I decided to one-hot code al
 Following are the models and respective mean square errors:
 
 Multiple Linear Regression	384.2013
+
 Random Forest 	366.7268
+
 Gradient Boosting	359.4175
 
 Conclusion
