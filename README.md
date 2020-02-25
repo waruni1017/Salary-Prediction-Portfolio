@@ -48,4 +48,5 @@ Conclusion
 Comparing the mean square error each model produced, gradient boosting seems to be a good fit for data. 
 
 •	When the feature importance is checked, I discovered that jobType_janitor being the most important out of all features. This is interesting, at the same time, this could make someone think why??
+
 •	One more compelling point to observe would be to see how the outliers we saw in the salary distribution could alter these results?
