@@ -1,4 +1,4 @@
-Exploring salary for different Job postings and Predicting salary.
+**Exploring salary for different Job postings and Predicting salary.**
 
 Introduction
 
