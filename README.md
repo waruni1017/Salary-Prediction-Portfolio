@@ -2,9 +2,9 @@
 
 **Introduction**
 
-Let it be Students in high school, parents who have young children, recent graduates seeking jobs. Many in the modern world, wonder and keen to know what educational qualification, what industry and/or what job may provide the desired salary they are looking for. Even the employers may also benefit knowing salary for different job postings. That way it would open space for them to negotiate properly when the time comes.
+Let them be students, parents who have young children, recent graduates seeking jobs. Many in the modern world, will be keen to know what educational qualification, what industry and/or level of employment may provide them the desired salary they are looking for. Even the employers may also be eager to know the expected salaries for different job positions. This may open space for negotiations.
 
-In this project I develop 3 models, namely multiple linear regression, random forest regression and gradient boosting regression, and identify the best out of these, comparing the mean square errors.
+In this project I develop 3 models, namely multiple linear regression, random forest regression and gradient boosting regression, and identify the best out of these by comparing the mean square errors.
 
 **Dataset**
 
