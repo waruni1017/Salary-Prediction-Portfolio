@@ -1,4 +1,4 @@
-#Exploring salary for different Job postings and Predicting salary.
+# Exploring salary for different Job postings and Predicting salary.
 
 **Introduction**
 
@@ -10,23 +10,23 @@ In this project I develop 3 models, namely multiple linear regression, random fo
 
 There are 10,000,000 data. And the dataset contains several variables.
 
-*jobId		 	: job identification number 
+- jobId		 	: job identification number 
 
-*companyId	 	: company identification number
+- companyId	 	: company identification number
 
-*jobType	 	: types of positions (categorical)
+- jobType	 	: types of positions (categorical)
 
-*degree		 	: highest level of education qualification (categorical)
+- degree		 	: highest level of education qualification (categorical)
 
-*major		 	: field majored in education (categorical)
+- major		 	: field majored in education (categorical)
 
-*industry		: Industry of the job (categorical)
+- industry		: Industry of the job (categorical)
 
-*yearsExperience          : years of experience in the candidate (numerical)
+- yearsExperience          : years of experience in the candidate (numerical)
 
-*milesFromMetropolis : distance from metropolis in miles (numerical)
+- milesFromMetropolis : distance from metropolis in miles (numerical)
 
-*salary			: salary in thousands for each candidate (numerical)
+- salary			: salary in thousands for each candidate (numerical)
 
 **Data Preprocessing**
 
