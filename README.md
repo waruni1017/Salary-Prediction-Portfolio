@@ -37,6 +37,8 @@ First, I prepared data by checking for duplicates and invalid data. There were n
 Before building machine learning algorithms, I performed exploratory data analysis to identify any significant features affecting the salary. 
 Just like one would expect, data shows that higher the rank in a company, higher the salary is. Also, people with higher education level tend to earn more, which is also pretty obvious. What was interesting to learn that is people who majored in engineering, business seem to be earning decently when compared with other fields. 
 
+![](SalaryAnalysis.png)
+
 Also, data set uncovers that, in the modern world, people in oil industry is being paid more. One would think, as an effect of the digital revolution on society, web industry going far ahead with other industries. However, according to this data set it has earned the 3rd place while oil industry and finance industry acquiring 1st and 2nd respectively.
  
 I also examined how years of experience and distance from metropolis affect the salary. And the results make sense. Years of experience is directly proportional to the salary whereas the distance form metropolis is inversely proportional to the salary.
@@ -59,6 +61,8 @@ Gradient Boosting |  359.4175
 ## Conclusion
 
 Comparing the mean square error each model produced, gradient boosting seems to be a good fit for data. 
+
+![](FeatureImportance.png)
 
 •	When the feature importance is checked, I discovered that jobType_janitor being the most important out of all features. This is interesting, at the same time, this could make someone think why??
 
