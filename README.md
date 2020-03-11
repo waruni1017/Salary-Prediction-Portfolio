@@ -41,6 +41,8 @@ Also, data set uncovers that, in the modern world, people in oil industry is bei
  
 I also examined how years of experience and distance from metropolis affect the salary. And the results make sense. Years of experience is directly proportional to the salary whereas the distance form metropolis is inversely proportional to the salary.
 
+![](SalaryDistribution.png)
+
 It is pretty noticeable that the salary distribution looks symmetric. However, when screening the boxplot, it can be observed that there are some outliers in the upper end. When explored further, I noticed that these data might be useful for the machine learning models I was planning to develop. So, I decided not to drop them.
 
 ## Modeling
